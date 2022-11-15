@@ -3,7 +3,8 @@ import re
 import urllib.request
 from os import getenv
 
-API_KEY = getenv('API_KEY')
+API_KEY = getenv('CURSEFORGE_API_KEY')
+API_USER = getenv('CURSEFORGE_API_USER')
 API_URL = 'https://api.curseforge.com'
 MINECRAFT_GAME_ID = '432'
 
@@ -11,7 +12,7 @@ MINECRAFT_GAME_ID = '432'
 def new_api_call():
     opener = urllib.request.build_opener()
     opener.addheaders = [
-        ('user-agent', 'way2muchnoise'),
+        ('user-agent', API_USER),
         ('x-api-key', API_KEY),
         ('Accept', 'application/json')
     ]
