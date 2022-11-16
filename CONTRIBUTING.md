@@ -8,9 +8,9 @@ Thank you for investing your time in contributing to our project! Changes you ma
 #### &ensp; [Getting an API key from CurseForge](#Getting-an-API-key-from-CurseForge)
 ### [Setting up the development environment](#Setting-up-the-development-environment)
 #### &ensp; [Python](#Python)
-#### &ensp; [Setting your environment variables](#Setting-your-environment-variables)
+#### &ensp; [Setting your environment variables](#setting-your-environment-variables)
 ### [Running CurseForgeBadge](#Running-CurseForgeBadge)
-### [Ok, I set up my workspace! Now what?](#Ok%2C-I-set-up-my-workspace%21-Now-what%3F)
+### [Ok, I set up my workspace! Now what?](#Ok-I-set-up-my-workspace-Now-what-1)
 
 <br />
 
