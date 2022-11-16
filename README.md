@@ -23,3 +23,6 @@ Changed some stuff around based on feedback from @itsmeow and GitHub now likes m
     * [![](http://cf.way2muchnoise.eu/versions/For%20MC_240630_all.svg)](https://minecraft.curseforge.com/projects/just-enough-resources-jer) -> `https://cf.way2muchnoise.eu/versions/For%20MC_240630_all.svg`
 
 For many more patterns see [https://cf.way2muchnoise.eu](https://cf.way2muchnoise.eu)
+
+## Contributing
+Want to contribute to CurseForgeBadge? Click [here](./CONTRIBUTING.md) to learn how!
